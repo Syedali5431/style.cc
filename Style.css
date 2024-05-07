@@ -107,6 +107,7 @@ li {
 }
 
 #wrapper::after {
+  content: url(https://etg.boostontime.com/public/img/template-generated-by-boostontime-logo.png) !important;
   display: block !important;
   width: 100% !important;
   background: #ffffff !important;
