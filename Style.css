@@ -101,6 +101,17 @@ li {
   font-weight: bold !important;
 }
 
+#description_banner_image_url,
+#description_banner_image_url img {
+  width: 100%;
+}
+
+#wrapper::after {
+  display: block !important;
+  width: 100% !important;
+  background: #ffffff !important;
+  text-align: center !important;
+}
 
 #footer {
   max-width: 1050px;
